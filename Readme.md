@@ -41,7 +41,7 @@ The machine simply reads the `a`s from Tape 1 and copies them onto Tape 2. When 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/turing-machines-lab.git](https://github.com/YOUR_USERNAME/turing-machines-lab.git)
+    git clone [https://github.com/limajoaohs/turing-machines-lab.git](https://github.com/limajoaohs/turing-machines-lab.git)
     cd turing-machines-lab
     ```
 
@@ -60,4 +60,5 @@ The machine simply reads the `a`s from Tape 1 and copies them onto Tape 2. When 
 
     # Run Question 3
     python Q03_Recognizer_MNTM/main.py
+
     ```
